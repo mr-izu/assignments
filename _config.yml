@@ -7,3 +7,5 @@ plugins:
 
 # (Optional) Just the Docs settings
 color_scheme: light
+# _config.yml
+footer_content: "© 2025 Qxel Project. All rights reserved."
