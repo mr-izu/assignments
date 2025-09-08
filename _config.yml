@@ -1,3 +1,9 @@
-
 title: "Qxel Documentation"
-theme: just-the-docs
+description: "Official documentation for Qxel"
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+# (Optional) Just the Docs settings
+color_scheme: light
