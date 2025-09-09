@@ -1,10 +1,7 @@
 ---
-title: Qxel Documentation
+title: Private Documentation
 ---
 
-# Welcome to Qxel Docs
+# Welcome to My Docs
 
-Qxel is a powerful and lightweight project for **[your description here]**.  
-This site will guide you through installation, usage, and API references.
-
-👉 Get started with [Installation](installation.md).
+You can see all of my Private files here.
