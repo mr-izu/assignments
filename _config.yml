@@ -1,12 +1,13 @@
 # _config.yml
 title: "Private Documentation"
 description: "My private documents"
-theme: jekyll-docs-theme
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
-# Optional settings
+# Footer settings
 footer:
-  copyright: "© 2025 Shameem owns the copyright bro. All rights reserved."
+  links:
+    enabled: false
