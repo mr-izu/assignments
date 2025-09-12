@@ -1,12 +1,12 @@
+# _config.yml
 title: "Private Documentation"
 description: "My private documents"
-remote_theme: just-the-docs/just-the-docs
+theme: jekyll-docs-theme
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# (Optional) Just the Docs settings
-color_scheme: light
-# _config.yml
-footer_content: "© 2025 Shameem owns the copyright bro. All rights reserved."
-permalink: pretty
+# Optional settings
+footer:
+  copyright: "© 2025 Shameem owns the copyright bro. All rights reserved."
