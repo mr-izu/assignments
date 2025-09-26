@@ -5,20 +5,42 @@ site_url: https://docs.izumie.me/
 repo_name: mr-izu/docs
 repo_url: https://github.com/mr-izu/docs
 
+# Use the root directory instead of docs/
+docs_dir: .  # This tells MkDocs to use the current directory
+
+# Explicitly ignore any files/directories you don't want included
+watch:
+  - .  # Watch current directory
+
 nav:
   - Home: index.md
-  - Business:
-    - Overview: business/index.md
-    - Introduction: business/introduction.md
-    - Get Started: business/get-started.md
-  - Users:
-    - Overview: users/index.md
-    - Introduction: users/introduction.md
-    - Get Started: users/get-started.md
-  - Partners:
-    - Overview: partners/index.md
-    - Introduction: partners/introduction.md
-    - Get Started: partners/get-started.md
+  - Adnan:
+    - Assignment: adnan/assignment.md
+    - Seminar: adnan/seminar.md
+  - Jaseel:
+    - Assignment: jaseel/assignment.md
+    - Navas Assignment: jaseel/navas_assignment.md
+  - My:
+    - Assignment: my/assignment.md
+    - Athulya Assignment: my/athulya_assignment.md
+    - Seminar: my/seminar.md
+    - Suji Assignment: my/suji_assignment.md
+  - Noushique:
+    - Assignment: noushique/assignment.md
+    - Seminar: noushique/seminar.md
+    - Suji Assignment: noushique/suji_assignment.md
+  - Sahad:
+    - Assignment: sahad/assignment.md
+    - Seminar: sahad/seminar.md
+  - Shiyas:
+    - Assignment: shiyas/assignment.md
+    - Politics Assignment: shiyas/politics_assignment.md
+    - Seminar: shiyas/seminar.md
+    - Athulya Assignment: shiyas/athulya_assignment.md
+    - Suji Seminar: shiyas/suji_seminar.md
+  - Sinan:
+    - Assignment: sinan/assignment.md
+  - Suji Chapter 4: suji_chatper4/index.md
 
 theme:
   name: material
