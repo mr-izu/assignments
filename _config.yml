@@ -1,0 +1,12 @@
+title: "private Documentation"
+description: "Official documentation"
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+# (Optional) Just the Docs settings
+color_scheme: light
+# _config.yml
+footer_content: "© 2025 Shammi. All rights reserved."
+permalink: pretty
