@@ -106,15 +106,3 @@ It primarily includes variable costs (materials, labor, etc.) that change with p
 - Key for break-even and margin of safety calculations
 
 ---
-
-**Summary Table**:
-| Term | Definition |
-|------|------------|
-| Financial Analysis | Evaluating financial performance using statements |
-| CVP Analysis | Studying cost-volume-profit relationships |
-| Management Accounting | Internal financial info for management decisions |
-| P/V Ratio | Contribution as percentage of sales |
-| Common Size Statements | Financial statements in percentage form |
-| Marginal Cost | Cost of producing one additional unit |
-| Break-even Point | No profit-no loss point |
-| Contribution | Sales minus variable costs |
