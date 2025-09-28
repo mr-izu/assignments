@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Izumie Neon Logo</title>
+  <desc id="desc">Dark background with neon glowing text "Izumie".</desc>
+
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="100%" stop-color="#0f1116"/>
+    </linearGradient>
+
+    <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.55)"/>
+    </radialGradient>
+
+    <!-- neon glow filter -->
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur1"/>
+      <feColorMatrix in="blur1" type="matrix"
+        values="0 0 0 0 0.35
+                0 0 0 0 0.15
+                0 0 0 0 0.7
+                0 0 0 0.9 0" result="col1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="28" result="blur2"/>
+      <feColorMatrix in="blur2" type="matrix"
+        values="0 0 0 0 0.05
+                0 0 0 0 0.02
+                0 0 0 0 0.12
+                0 0 0 0.6 0" result="col2"/>
+      <feMerge>
+        <feMergeNode in="col2"/>
+        <feMergeNode in="col1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- text gradient -->
+    <linearGradient id="textGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#9A6CFF"/>
+      <stop offset="50%" stop-color="#5B7BFF"/>
+      <stop offset="100%" stop-color="#3EC8FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="1600" height="800" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="1600" height="800" fill="url(#vignette)" style="mix-blend-mode: multiply;"/>
+
+  <!-- "Izumie" text with neon glow -->
+  <g transform="translate(300,450)">
+    <text x="0" y="0" font-family="Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif"
+          font-weight="700" font-size="160" text-rendering="geometricPrecision"
+          fill="url(#textGrad)" style="letter-spacing:2px; filter:url(#neonGlow);">
+      Izumie
+    </text>
+    <!-- dark outline -->
+    <text x="0" y="0" font-family="Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif"
+          font-weight="700" font-size="160"
+          fill="none" stroke="rgba(10,12,20,0.9)" stroke-width="6" style="letter-spacing:2px;">
+      Izumie
+    </text>
+    <!-- light inner stroke -->
+    <text x="0" y="0" font-family="Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif"
+          font-weight="700" font-size="160"
+          fill="none" stroke="rgba(100,160,255,0.45)" stroke-width="1.4" style="letter-spacing:2px;">
+      Izumie
+    </text>
+  </g>
+
+</svg>
