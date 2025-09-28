@@ -1,6 +1,3 @@
-### **Assignment**
-
-**Subject:** Financial Management / Accounting
 **Topic:** Meaning, Objectives, and Types of Financial Statement Analysis
 **Date:** October 26, 2023
 
