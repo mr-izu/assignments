@@ -1,6 +1,6 @@
 title: "private Documentation"
 description: "Official documentation"
-remote_theme: just-the-docs/just-the-docs
+remote_theme: mr-izu/elca
 
 plugins:
   - jekyll-remote-theme
