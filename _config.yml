@@ -1,6 +1,6 @@
-title: "private Documentation"
+title: "Assignments and Seminars"
 description: "Official documentation"
-remote_theme: mr-izu/elca
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
