@@ -1,12 +1,90 @@
 title: "Assignments and Seminars"
 description: "Official documentation"
 remote_theme: mr-izu/elca
+baseurl: ""
+url: ""
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Theme settings
+logo: "/assets/images/logo.svg"  # Add your logo here
+
+# Navigation settings
+nav_links:
+  - title: "About"
+    url: "https://qxel.app/about"
+  - title: "Contact"
+    url: "https://qxel.app/contact"
+
+# Table of Contents structure - Organized by students
+toc:
+  - category: "Adnan"
+    pages:
+      - title: "Assignments"
+        url: "/adnan/assignments"
+      - title: "Seminars"
+        url: "/adnan/seminars"
+  - category: "Shiyas"
+    pages:
+      - title: "Assignments"
+        url: "/shiyas/assignments"
+      - title: "Seminars"
+        url: "/shiyas/seminars"
+  - category: "Athulya"
+    pages:
+      - title: "Assignments"
+        url: "/athulya/assignments"
+  - category: "Noushique"
+    pages:
+      - title: "Assignments"
+        url: "/noushique/assignments"
+      - title: "Seminars"
+        url: "/noushique/seminars"
+  - category: "Jaseel"
+    pages:
+      - title: "Assignments"
+        url: "/jaseel/assignments"
+      - title: "Seminars"
+        url: "/jaseel/seminars"
+  - category: "Sinan"
+    pages:
+      - title: "Assignments"
+        url: "/sinan/assignments"
+      - title: "Seminars"
+        url: "/sinan/seminars"
+  - category: "Sahad"
+    pages:
+      - title: "Assignments"
+        url: "/sahad/assignments"
+      - title: "Seminars"
+        url: "/sahad/seminars"
+  - category: "My"
+    pages:
+      - title: "Assignments"
+        url: "/my/assignments"
+      - title: "Seminars"
+        url: "/my/seminars"
+  - category: "Navas"
+    pages:
+      - title: "Assignments"
+        url: "/navas/assignments"
+      - title: "Seminars"
+        url: "/navas/seminars"
 
 # (Optional) Just the Docs settings
 color_scheme: light
-# _config.yml
 footer_content: "© 2025 Shammi. All rights reserved."
 permalink: pretty
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
