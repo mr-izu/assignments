@@ -1,7 +1,3 @@
-Got it 👍 — here’s your **seminar on “Format of a Research Report”** with **only the main content**, as you asked (no introduction, importance, conclusion, or references).
-
----
-
 # **Seminar on Format of a Research Report**
 
 ---
