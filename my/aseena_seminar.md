@@ -1,15 +1,6 @@
-# **Seminar on Format of a Research Report**
-
----
-
 ## **FORMAT OF A RESEARCH REPORT**
 
-The research report may be presented either in the form of a dissertation or in the form of a thesis.
-In all these cases, there are certain **format specifications** to be followed by the research report writer.
-These specifications allow the writer to include their contribution within a conventional framework that is both **chronological and reasonable**.
-
-The mechanical format of a research report consists of **three parts**:
-
+mechanical format for research report n 3 Part und
 1. **The Preliminaries**
 2. **The Text**
 3. **The Reference Materials**
