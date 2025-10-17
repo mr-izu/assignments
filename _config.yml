@@ -4,11 +4,13 @@ title_short: "YST" # Short version for header
 description: "Your site description"
 keywords: "your,keywords,here"
 author: "Qxel"
+remote_theme: mr-izu/elca
 
+plugins:
+  - jekyll-remote-theme
 # Logo (optional)
 logo: "https://mr-izu.github.io/logos/qxel/transparent_logo.png" # Path to your logo
 
-remote-theme:"mr-izu/elca"
 # Navigation configuration
 navigation:
   - title: "Home"
