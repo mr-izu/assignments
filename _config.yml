@@ -8,6 +8,7 @@ author: "Qxel"
 # Logo (optional)
 logo: "https://mr-izu.github.io/logos/qxel/transparent_logo.png" # Path to your logo
 
+remote-theme:"mr-izu/elca"
 # Navigation configuration
 navigation:
   - title: "Home"
