@@ -1,6 +1,6 @@
 # **പൈസ അയക്ക് മൈരേ**
 
-# **Organisation or Structure of a Research Report**
+# **Assignment on Organisation or Structure of a Research Report**
 
 ---
 
@@ -15,30 +15,30 @@
 
 ## **Organisation of a Research Report**
 
-The organisation or structure of a research report is the process of arranging the parts of the report in a logical and sequential manner after data collection and analysis. Proper organisation helps the researcher present ideas clearly and effectively.
+The organisation or structure of a research report refers to the systematic arrangement of its various parts in a logical and sequential manner after data collection and analysis. Proper organisation enables the researcher to present ideas clearly and effectively.
 
-A well-planned structure ensures unity, uniformity, and continuity throughout the report. It prevents repetition, avoids wrong emphasis, and ensures that each part of the report connects smoothly with the others. Organisation serves as the foundation of the research report and plays an important role in effective communication of research findings.
+A well-planned structure ensures **unity, uniformity, and continuity** throughout the report. It helps in avoiding unnecessary repetition and wrong emphasis, making the presentation clear and understandable. Each section of the report should be logically connected to the next, maintaining a smooth flow of information.
 
 ---
 
 ## **Forms of Organisation**
 
-The structure or plan of a research report can generally take three forms:
+The organisation or plan of a research report can generally be of three types:
 
 * **Horizontal Organisation:**
-  Based on topics and subtopics that are interrelated. It is most suitable for research on current problems.
+  Based on interrelated topics and subtopics. Suitable for studies dealing with current issues.
 
 * **Sequential Organisation:**
-  Follows a chronological order, showing the development or progress of the study over time.
+  Arranged in chronological order, showing development or progress of the research over time.
 
 * **Mixed Organisation:**
-  A combination of both horizontal and sequential forms. It is chosen depending on the nature and purpose of the study, the research problem, and the time available.
+  A combination of horizontal and sequential forms. Adopted depending on the research problem, purpose, and available time.
 
 ---
 
 ## **Conclusion**
 
-The organisation of a research report is essential for presenting research findings in a clear, logical, and systematic manner. A properly structured report improves understanding, readability, and overall presentation. Careful organisation ensures effective communication of research results.
+The organisation of a research report is an essential prerequisite for presenting research findings effectively. A clear and logical structure improves communication, readability, and overall understanding. Proper planning and systematic arrangement are key to preparing a well-organised research report.
 
 ---
 
