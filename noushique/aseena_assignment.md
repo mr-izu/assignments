@@ -1,4 +1,4 @@
-# **പൈസ അയക്ക് മൈരേ**
+
 
 # **Assignment on Organisation or Structure of a Research Report**
 
@@ -13,6 +13,13 @@
 
 ---
 
+## **Introduction**
+
+A research report is a formal and structured presentation of the outcomes of a research study. It communicates the purpose, methods, findings, and conclusions of the research in a clear and systematic manner. The way a report is organised plays a crucial role in determining how effectively the information is conveyed to the reader.
+
+A well-organised report not only reflects the researcher’s understanding of the subject but also ensures clarity, coherence, and logical flow. Therefore, understanding the **organisation or structure** of a research report is essential for presenting research findings in a professional and meaningful way.
+
+---
 ## **Organisation of a Research Report**
 
 The organisation or structure of a research report refers to the systematic arrangement of its various parts in a logical and sequential manner after data collection and analysis. Proper organisation enables the researcher to present ideas clearly and effectively.
