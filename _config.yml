@@ -1,12 +1,38 @@
-title: "Assignments and Seminars"
-description: "Official documentation"
-remote_theme: just-the-docs/just-the-docs
+# Site title and description
+title: "Your Site Title"
+title_short: "YST" # Short version for header
+description: "Your site description"
+keywords: "your,keywords,here"
+author: "Qxel"
 
-plugins:
-  - jekyll-remote-theme
+# Logo (optional)
+logo: "https://mr-izu.github.io/logos/qxel/transparent_logo.png" # Path to your logo
 
-# (Optional) Just the Docs settings
-color_scheme: light
-# _config.yml
-footer_content: "© 2025 Shammi. All rights reserved."
-permalink: pretty
+# Navigation configuration
+navigation:
+  - title: "Home"
+    url: "/"
+  
+  - title: "Community"
+    url: "/community/"
+    dropdown:
+      - title: "About Us"
+        url: "/about/"
+      - title: "Join Community"
+        url: "/join/"
+      - title: "Features & Products"
+        url: "/features/"
+      - title: "Community Survey"
+        url: "/survey/"
+  
+  - title: "What We Support"
+    url: "/support/"
+  
+  - title: "Terms"
+    url: "/terms/"
+  
+  - title: "Privacy"
+    url: "/privacy/"
+  
+  - title: "Report"
+    url: "/report/"
