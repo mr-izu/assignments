@@ -16,26 +16,42 @@ navigation:
   - title: "Home"
     url: "/"
   
-  - title: "Community"
-    url: "/community/"
+  - title: "Adnan"
     dropdown:
-      - title: "About Us"
-        url: "/about/"
-      - title: "Join Community"
-        url: "/join/"
-      - title: "Features & Products"
-        url: "/features/"
-      - title: "Community Survey"
-        url: "/survey/"
-  
-  - title: "What We Support"
-    url: "/support/"
-  
-  - title: "Terms"
-    url: "/terms/"
-  
-  - title: "Privacy"
-    url: "/privacy/"
-  
-  - title: "Report"
-    url: "/report/"
+      - title: "Assignment"
+        url: "/adnan/assignment/"
+      - title: "Seminar"
+        url: "/adnan/seminar/"
+
+  - title: "Jaseel"
+    dropdown:
+      - title: "Assignment"
+        url: "/jaseel/assignment/"
+      - title: "Athulya Assignment"
+        url: "/jaseel/athulya_assignment/"
+      - title: "Navas Assignment"
+        url: "/jaseel/navas_assignment/"
+
+  - title: "My Notes"
+    dropdown:
+      - title: "Aseena Assignment"
+        url: "/my/aseena_assignment/"
+      - title: "Aseena Seminar"
+        url: "/my/aseena_seminar/"
+      - title: "Assignment"
+        url: "/my/assignment/"
+      - title: "Athulya Assignment"
+        url: "/my/athulya_assignment/"
+      - title: "Seminar"
+        url: "/my/seminar/"
+      - title: "Suji Assignment"
+        url: "/my/suji_assignment/"
+      - title: "Suji Seminar"
+        url: "/my/suji_seminar/"
+
+  - title: "Adnan"
+    dropdown:
+      - title: "Assignment"
+        url: "/adnan/assignment/"
+      - title: "Seminar"
+        url: "/adnan/seminar/"
